@@ -132,9 +132,9 @@ url = "contact"
 weight = 5
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
+author = "5Days "
 contact_form_action = "#"
-description = "This is meta description"
+description = "Schulbildungsplattform"
 email = "info@educenter.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
@@ -186,15 +186,3 @@ title = "facebook"
 icon = "ti-twitter-alt"
 link = "#"
 title = "twitter"
-[[params.social]]
-icon = "ti-instagram"
-link = "#"
-title = "instagram"
-[[params.social]]
-icon = "ti-github"
-link = "#"
-title = "github"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-title = "linkedin"

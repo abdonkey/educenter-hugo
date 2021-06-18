@@ -1,4 +1,4 @@
-baseURL = "https://5days-online.netlify.com"
+baseURL = "https://5days-online.netlify.app"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"

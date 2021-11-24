@@ -1,6 +1,6 @@
 baseURL = "https://5days-online.netlify.app"
 disableLanguages = []
-disqusShortname = "educenter"
+disqusShortname = "Disqus5Days"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
